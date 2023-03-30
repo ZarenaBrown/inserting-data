@@ -1,0 +1,22 @@
+INSERT
+  INTO
+    artists(first_name, last_name, birthday, is_alive)
+  VALUES
+    (
+    'Post',
+    'Malone',
+    '02-02-2020',
+     'true'
+    ),
+    (
+    'Waka',
+    'Flocka',
+    '01-01-1998',
+    'true'
+    ),
+    (
+    'Cardi',
+    'B',
+    '08-09-0987',
+    'true'
+    );
